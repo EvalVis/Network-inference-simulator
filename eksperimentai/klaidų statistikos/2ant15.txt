@@ -1,0 +1,400 @@
+K: 2, N: 15. Teksto ilgis: 560
+Programos sugeneruota matrica: 
+[1, 0, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 1]
+[0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1]
+Klaidos tikimybė: 0.01
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 46 (0.9382%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:0 (0.0000%).
+Klaidų skirtumas: 46.
+Klaidos tikimybė: 0.02
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 99 (2.0192%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:0 (0.0000%).
+Klaidų skirtumas: 99.
+Klaidos tikimybė: 0.03
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 138 (2.8146%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:0 (0.0000%).
+Klaidų skirtumas: 138.
+Klaidos tikimybė: 0.04
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 223 (4.5482%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:0 (0.0000%).
+Klaidų skirtumas: 223.
+Klaidos tikimybė: 0.05
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 266 (5.4252%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2 (0.0408%).
+Klaidų skirtumas: 264.
+Klaidos tikimybė: 0.06
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 286 (5.8332%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:0 (0.0000%).
+Klaidų skirtumas: 286.
+Klaidos tikimybė: 0.07
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 341 (6.9549%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:3 (0.0612%).
+Klaidų skirtumas: 338.
+Klaidos tikimybė: 0.08
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 393 (8.0155%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:10 (0.2040%).
+Klaidų skirtumas: 383.
+Klaidos tikimybė: 0.09
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 442 (9.0149%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:13 (0.2651%).
+Klaidų skirtumas: 429.
+Klaidos tikimybė: 0.10
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 504 (10.2794%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:19 (0.3875%).
+Klaidų skirtumas: 485.
+Klaidos tikimybė: 0.11
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 565 (11.5236%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:25 (0.5099%).
+Klaidų skirtumas: 540.
+Klaidos tikimybė: 0.12
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 563 (11.4828%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:43 (0.8770%).
+Klaidų skirtumas: 520.
+Klaidos tikimybė: 0.13
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 652 (13.2980%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:57 (1.1626%).
+Klaidų skirtumas: 595.
+Klaidos tikimybė: 0.14
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 717 (14.6237%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:82 (1.6724%).
+Klaidų skirtumas: 635.
+Klaidos tikimybė: 0.15
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 708 (14.4401%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:98 (1.9988%).
+Klaidų skirtumas: 610.
+Klaidos tikimybė: 0.16
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 799 (16.2961%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:135 (2.7534%).
+Klaidų skirtumas: 664.
+Klaidos tikimybė: 0.17
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 843 (17.1936%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:148 (3.0186%).
+Klaidų skirtumas: 695.
+Klaidos tikimybė: 0.18
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 877 (17.8870%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:172 (3.5081%).
+Klaidų skirtumas: 705.
+Klaidos tikimybė: 0.19
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 914 (18.6416%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:206 (4.2015%).
+Klaidų skirtumas: 708.
+Klaidos tikimybė: 0.20
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 989 (20.1713%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:237 (4.8338%).
+Klaidų skirtumas: 752.
+Klaidos tikimybė: 0.21
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1025 (20.9056%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:270 (5.5068%).
+Klaidų skirtumas: 755.
+Klaidos tikimybė: 0.22
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1097 (22.3741%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:328 (6.6898%).
+Klaidų skirtumas: 769.
+Klaidos tikimybė: 0.23
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1105 (22.5372%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:410 (8.3622%).
+Klaidų skirtumas: 695.
+Klaidos tikimybė: 0.24
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1215 (24.7807%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:432 (8.8109%).
+Klaidų skirtumas: 783.
+Klaidos tikimybė: 0.25
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1211 (24.6992%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:514 (10.4834%).
+Klaidų skirtumas: 697.
+Klaidos tikimybė: 0.26
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1310 (26.7183%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:543 (11.0749%).
+Klaidų skirtumas: 767.
+Klaidos tikimybė: 0.27
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1369 (27.9217%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:668 (13.6243%).
+Klaidų skirtumas: 701.
+Klaidos tikimybė: 0.28
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1380 (28.1460%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:701 (14.2974%).
+Klaidų skirtumas: 679.
+Klaidos tikimybė: 0.29
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1409 (28.7375%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:755 (15.3987%).
+Klaidų skirtumas: 654.
+Klaidos tikimybė: 0.30
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1462 (29.8185%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:847 (17.2751%).
+Klaidų skirtumas: 615.
+Klaidos tikimybė: 0.31
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1527 (31.1442%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:877 (17.8870%).
+Klaidų skirtumas: 650.
+Klaidos tikimybė: 0.32
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1615 (32.9390%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:1060 (21.6194%).
+Klaidų skirtumas: 555.
+Klaidos tikimybė: 0.33
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1655 (33.7548%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:1091 (22.2517%).
+Klaidų skirtumas: 564.
+Klaidos tikimybė: 0.34
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1706 (34.7950%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:1154 (23.5366%).
+Klaidų skirtumas: 552.
+Klaidos tikimybė: 0.35
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1723 (35.1417%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:1227 (25.0255%).
+Klaidų skirtumas: 496.
+Klaidos tikimybė: 0.36
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1747 (35.6312%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:1413 (28.8191%).
+Klaidų skirtumas: 334.
+Klaidos tikimybė: 0.37
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1741 (35.5089%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:1392 (28.3908%).
+Klaidų skirtumas: 349.
+Klaidos tikimybė: 0.38
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1894 (38.6294%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:1504 (30.6751%).
+Klaidų skirtumas: 390.
+Klaidos tikimybė: 0.39
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1895 (38.6498%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:1582 (32.2660%).
+Klaidų skirtumas: 313.
+Klaidos tikimybė: 0.40
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 1972 (40.2203%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:1713 (34.9378%).
+Klaidų skirtumas: 259.
+Klaidos tikimybė: 0.41
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2015 (41.0973%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:1761 (35.9168%).
+Klaidų skirtumas: 254.
+Klaidos tikimybė: 0.42
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2074 (42.3006%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:1920 (39.1597%).
+Klaidų skirtumas: 154.
+Klaidos tikimybė: 0.43
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2100 (42.8309%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:1947 (39.7104%).
+Klaidų skirtumas: 153.
+Klaidos tikimybė: 0.44
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2249 (45.8699%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2092 (42.6678%).
+Klaidų skirtumas: 157.
+Klaidos tikimybė: 0.45
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2172 (44.2994%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2148 (43.8099%).
+Klaidų skirtumas: 24.
+Klaidos tikimybė: 0.46
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2275 (46.4002%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2167 (44.1974%).
+Klaidų skirtumas: 108.
+Klaidos tikimybė: 0.47
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2312 (47.1548%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2204 (44.9521%).
+Klaidų skirtumas: 108.
+Klaidos tikimybė: 0.48
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2341 (47.7463%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2301 (46.9305%).
+Klaidų skirtumas: 40.
+Klaidos tikimybė: 0.49
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2500 (50.9892%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2340 (47.7259%).
+Klaidų skirtumas: 160.
+Klaidos tikimybė: 0.50
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2475 (50.4793%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2459 (50.1530%).
+Klaidų skirtumas: 16.
+Klaidos tikimybė: 0.51
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2464 (50.2549%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2504 (51.0708%).
+Klaidų skirtumas: -40.
+Klaidos tikimybė: 0.52
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2504 (51.0708%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2560 (52.2129%).
+Klaidų skirtumas: -56.
+Klaidos tikimybė: 0.53
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2536 (51.7234%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2623 (53.4979%).
+Klaidų skirtumas: -87.
+Klaidos tikimybė: 0.54
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2668 (54.4157%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2718 (55.4354%).
+Klaidų skirtumas: -50.
+Klaidos tikimybė: 0.55
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2734 (55.7618%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2739 (55.8638%).
+Klaidų skirtumas: -5.
+Klaidos tikimybė: 0.56
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2777 (56.6388%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2710 (55.2723%).
+Klaidų skirtumas: 67.
+Klaidos tikimybė: 0.57
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2824 (57.5974%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2819 (57.4954%).
+Klaidų skirtumas: 5.
+Klaidos tikimybė: 0.58
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2835 (57.8217%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2782 (56.7408%).
+Klaidų skirtumas: 53.
+Klaidos tikimybė: 0.59
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2909 (59.3310%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2807 (57.2507%).
+Klaidų skirtumas: 102.
+Klaidos tikimybė: 0.60
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2990 (60.9831%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2868 (58.4948%).
+Klaidų skirtumas: 122.
+Klaidos tikimybė: 0.61
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 2967 (60.5140%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2890 (58.9435%).
+Klaidų skirtumas: 77.
+Klaidos tikimybė: 0.62
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3047 (62.1456%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2881 (58.7599%).
+Klaidų skirtumas: 166.
+Klaidos tikimybė: 0.63
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3107 (63.3694%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2974 (60.6567%).
+Klaidų skirtumas: 133.
+Klaidos tikimybė: 0.64
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3140 (64.0424%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2909 (59.3310%).
+Klaidų skirtumas: 231.
+Klaidos tikimybė: 0.65
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3173 (64.7155%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2981 (60.7995%).
+Klaidų skirtumas: 192.
+Klaidos tikimybė: 0.66
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3245 (66.1840%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:3013 (61.4522%).
+Klaidų skirtumas: 232.
+Klaidos tikimybė: 0.67
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3307 (67.4485%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2957 (60.3100%).
+Klaidų skirtumas: 350.
+Klaidos tikimybė: 0.68
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3307 (67.4485%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2990 (60.9831%).
+Klaidų skirtumas: 317.
+Klaidos tikimybė: 0.69
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3436 (70.0795%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2963 (60.4324%).
+Klaidų skirtumas: 473.
+Klaidos tikimybė: 0.70
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3405 (69.4473%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2924 (59.6370%).
+Klaidų skirtumas: 481.
+Klaidos tikimybė: 0.71
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3448 (70.3243%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2950 (60.1672%).
+Klaidų skirtumas: 498.
+Klaidos tikimybė: 0.72
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3513 (71.6500%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2951 (60.1876%).
+Klaidų skirtumas: 562.
+Klaidos tikimybė: 0.73
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3610 (73.6284%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2959 (60.3508%).
+Klaidų skirtumas: 651.
+Klaidos tikimybė: 0.74
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3615 (73.7304%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2914 (59.4330%).
+Klaidų skirtumas: 701.
+Klaidos tikimybė: 0.75
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3663 (74.7094%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2942 (60.0041%).
+Klaidų skirtumas: 721.
+Klaidos tikimybė: 0.76
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3747 (76.4226%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2956 (60.2896%).
+Klaidų skirtumas: 791.
+Klaidos tikimybė: 0.77
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3726 (75.9943%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2917 (59.4942%).
+Klaidų skirtumas: 809.
+Klaidos tikimybė: 0.78
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3825 (78.0135%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2886 (58.8619%).
+Klaidų skirtumas: 939.
+Klaidos tikimybė: 0.79
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3851 (78.5437%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2820 (57.5158%).
+Klaidų skirtumas: 1031.
+Klaidos tikimybė: 0.80
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3915 (79.8491%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2833 (57.7810%).
+Klaidų skirtumas: 1082.
+Klaidos tikimybė: 0.81
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 3952 (80.6037%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2849 (58.1073%).
+Klaidų skirtumas: 1103.
+Klaidos tikimybė: 0.82
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4009 (81.7663%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2782 (56.7408%).
+Klaidų skirtumas: 1227.
+Klaidos tikimybė: 0.83
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4047 (82.5413%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2778 (56.6592%).
+Klaidų skirtumas: 1269.
+Klaidos tikimybė: 0.84
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4125 (84.1322%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2731 (55.7006%).
+Klaidų skirtumas: 1394.
+Klaidos tikimybė: 0.85
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4153 (84.7032%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2720 (55.4762%).
+Klaidų skirtumas: 1433.
+Klaidos tikimybė: 0.86
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4175 (85.1519%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2734 (55.7618%).
+Klaidų skirtumas: 1441.
+Klaidos tikimybė: 0.87
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4283 (87.3547%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2673 (54.5176%).
+Klaidų skirtumas: 1610.
+Klaidos tikimybė: 0.88
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4342 (88.5580%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2654 (54.1301%).
+Klaidų skirtumas: 1688.
+Klaidos tikimybė: 0.89
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4376 (89.2515%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2621 (53.4571%).
+Klaidų skirtumas: 1755.
+Klaidos tikimybė: 0.90
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4407 (89.8837%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2606 (53.1511%).
+Klaidų skirtumas: 1801.
+Klaidos tikimybė: 0.91
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4410 (89.9449%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2585 (52.7228%).
+Klaidų skirtumas: 1825.
+Klaidos tikimybė: 0.92
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4515 (92.0865%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2575 (52.5189%).
+Klaidų skirtumas: 1940.
+Klaidos tikimybė: 0.93
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4567 (93.1471%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2547 (51.9478%).
+Klaidų skirtumas: 2020.
+Klaidos tikimybė: 0.94
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4604 (93.9017%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2518 (51.3563%).
+Klaidų skirtumas: 2086.
+Klaidos tikimybė: 0.95
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4661 (95.0642%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2501 (51.0096%).
+Klaidų skirtumas: 2160.
+Klaidos tikimybė: 0.96
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4708 (96.0228%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2477 (50.5201%).
+Klaidų skirtumas: 2231.
+Klaidos tikimybė: 0.97
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4767 (97.2262%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2472 (50.4181%).
+Klaidų skirtumas: 2295.
+Klaidos tikimybė: 0.98
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4806 (98.0216%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2459 (50.1530%).
+Klaidų skirtumas: 2347.
+Klaidos tikimybė: 0.99
+Iš viso padaryta klaidų siunčiant neužkoduotą srautą: 4846 (98.8374%).
+Iš viso palikta klaidų užkoduotame sraute po taisymo:2453 (50.0306%).
+Klaidų skirtumas: 2393.

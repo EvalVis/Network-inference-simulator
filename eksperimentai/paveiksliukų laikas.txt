@@ -1,0 +1,497 @@
+Jeigu dvi eilutės iš eilės yra trečiojo scenarijaus vykdymo laikas, antra eilutė iš tiesų yra užkodavimo, siuntimo, dekodavimo vykdymo laikas.
+
+Paveiksliuko plotas: 100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:12 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:5 (milisekundės).
+Paveiksliuko plotas: 400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:16 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:11 (milisekundės).
+Paveiksliuko plotas: 900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:34 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:27 (milisekundės).
+Paveiksliuko plotas: 1600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:47 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:37 (milisekundės).
+Paveiksliuko plotas: 2500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:75 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:65 (milisekundės).
+Paveiksliuko plotas: 3600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:87 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:75 (milisekundės).
+Paveiksliuko plotas: 4900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:102 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:90 (milisekundės).
+Paveiksliuko plotas: 6400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:128 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:115 (milisekundės).
+Paveiksliuko plotas: 8100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:176 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:160 (milisekundės).
+Paveiksliuko plotas: 10000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:194 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:176 (milisekundės).
+Paveiksliuko plotas: 12100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:236 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:215 (milisekundės).
+Paveiksliuko plotas: 14400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:303 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:279 (milisekundės).
+Paveiksliuko plotas: 16900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:326 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:298 (milisekundės).
+Paveiksliuko plotas: 19600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:384 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:353 (milisekundės).
+Paveiksliuko plotas: 22500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:466 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:415 (milisekundės).
+Paveiksliuko plotas: 25600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:508 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:467 (milisekundės).
+Paveiksliuko plotas: 28900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:634 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:588 (milisekundės).
+Paveiksliuko plotas: 32400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:638 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:582 (milisekundės).
+Paveiksliuko plotas: 36100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:719 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:623 (milisekundės).
+Paveiksliuko plotas: 40000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:832 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:773 (milisekundės).
+Paveiksliuko plotas: 44100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:832 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:766 (milisekundės).
+Paveiksliuko plotas: 48400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:994 (milisekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:880 (milisekundės).
+Paveiksliuko plotas: 52900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:1 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:966 (milisekundės).
+Paveiksliuko plotas: 57600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:1 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:1 (sekundės).
+Paveiksliuko plotas: 62500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:1 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:1 (sekundės).
+Paveiksliuko plotas: 67600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:1 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:1 (sekundės).
+Paveiksliuko plotas: 102400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:1 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:1 (sekundės).
+Paveiksliuko plotas: 108900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:2 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:1 (sekundės).
+Paveiksliuko plotas: 115600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:2 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:2 (sekundės).
+Paveiksliuko plotas: 122500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:2 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:2 (sekundės).
+Paveiksliuko plotas: 129600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:2 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:2 (sekundės).
+Paveiksliuko plotas: 136900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:2 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:2 (sekundės).
+Paveiksliuko plotas: 144400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:3 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:2 (sekundės).
+Paveiksliuko plotas: 152100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:3 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:2 (sekundės).
+Paveiksliuko plotas: 160000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:3 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:3 (sekundės).
+Paveiksliuko plotas: 168100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:3 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:3 (sekundės).
+Paveiksliuko plotas: 176400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:3 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:3 (sekundės).
+Paveiksliuko plotas: 184900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:3 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:3 (sekundės).
+Paveiksliuko plotas: 193600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:4 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:3 (sekundės).
+Paveiksliuko plotas: 202500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:4 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:3 (sekundės).
+Paveiksliuko plotas: 211600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:4 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:3 (sekundės).
+Paveiksliuko plotas: 220900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:4 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:4 (sekundės).
+Paveiksliuko plotas: 230400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:4 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:4 (sekundės).
+Paveiksliuko plotas: 240100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:4 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:4 (sekundės).
+Paveiksliuko plotas: 250000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:4 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:4 (sekundės).
+Paveiksliuko plotas: 260100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:5 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:4 (sekundės).
+Paveiksliuko plotas: 270400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:5 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:4 (sekundės).
+Paveiksliuko plotas: 280900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:5 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:5 (sekundės).
+Paveiksliuko plotas: 291600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:5 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:5 (sekundės).
+Paveiksliuko plotas: 302500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:5 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:5 (sekundės).
+Paveiksliuko plotas: 313600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:6 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:5 (sekundės).
+Paveiksliuko plotas: 324900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:6 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:5 (sekundės).
+Paveiksliuko plotas: 336400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:6 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:5 (sekundės).
+Paveiksliuko plotas: 348100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:6 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:6 (sekundės).
+Paveiksliuko plotas: 360000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:6 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:6 (sekundės).
+Paveiksliuko plotas: 372100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:7 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:6 (sekundės).
+Paveiksliuko plotas: 384400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:7 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:6 (sekundės).
+Paveiksliuko plotas: 396900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:7 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:7 (sekundės).
+Paveiksliuko plotas: 409600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:8 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:7 (sekundės).
+Paveiksliuko plotas: 422500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:8 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:7 (sekundės).
+Paveiksliuko plotas: 435600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:8 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:7 (sekundės).
+Paveiksliuko plotas: 448900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:8 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:7 (sekundės).
+Paveiksliuko plotas: 462400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:9 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:8 (sekundės).
+Paveiksliuko plotas: 476100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:9 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:8 (sekundės).
+Paveiksliuko plotas: 490000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:10 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:9 (sekundės).
+Paveiksliuko plotas: 504100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:11 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:10 (sekundės).
+Paveiksliuko plotas: 518400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:10 (sekundės).
+	Užkodavimo, siuntimo, dekodavimo vykdymo laikas:9 (sekundės).
+Paveiksliuko plotas: 532900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:10 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:9 (sekundės).
+Paveiksliuko plotas: 547600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:10 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:9 (sekundės).
+Paveiksliuko plotas: 562500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:11 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:10 (sekundės).
+Paveiksliuko plotas: 577600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:11 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:10 (sekundės).
+Paveiksliuko plotas: 592900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:11 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:10 (sekundės).
+Paveiksliuko plotas: 608400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:12 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:10 (sekundės).
+Paveiksliuko plotas: 624100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:12 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:11 (sekundės).
+Paveiksliuko plotas: 640000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:13 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:11 (sekundės).
+Paveiksliuko plotas: 656100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:13 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:11 (sekundės).
+Paveiksliuko plotas: 672400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:13 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:12 (sekundės).
+Paveiksliuko plotas: 688900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:14 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:12 (sekundės).
+Paveiksliuko plotas: 705600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:15 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:13 (sekundės).
+Paveiksliuko plotas: 722500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:15 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:14 (sekundės).
+Paveiksliuko plotas: 739600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:15 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:14 (sekundės).
+Paveiksliuko plotas: 756900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:15 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:14 (sekundės).
+Paveiksliuko plotas: 774400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:16 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:14 (sekundės).
+Paveiksliuko plotas: 792100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:16 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:15 (sekundės).
+Paveiksliuko plotas: 810000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:17 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:16 (sekundės).
+Paveiksliuko plotas: 828100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:18 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:16 (sekundės).
+Paveiksliuko plotas: 846400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:18 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:16 (sekundės).
+Paveiksliuko plotas: 864900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:18 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:16 (sekundės).
+Paveiksliuko plotas: 883600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:18 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:16 (sekundės).
+Paveiksliuko plotas: 902500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:18 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:16 (sekundės).
+Paveiksliuko plotas: 921600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:19 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:17 (sekundės).
+Paveiksliuko plotas: 940900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:19 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:17 (sekundės).
+Paveiksliuko plotas: 960400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:19 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:17 (sekundės).
+Paveiksliuko plotas: 980100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:20 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:18 (sekundės).
+Paveiksliuko plotas: 1000000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:20 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:18 (sekundės).
+Paveiksliuko plotas: 1020100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:21 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:19 (sekundės).
+Paveiksliuko plotas: 1040400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:22 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:20 (sekundės).
+Paveiksliuko plotas: 1060900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:22 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:20 (sekundės).
+Paveiksliuko plotas: 1081600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:23 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:20 (sekundės).
+Paveiksliuko plotas: 1102500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:23 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:21 (sekundės).
+Paveiksliuko plotas: 1123600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:23 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:21 (sekundės).
+Paveiksliuko plotas: 1144900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:24 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:21 (sekundės).
+Paveiksliuko plotas: 1166400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:25 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:22 (sekundės).
+Paveiksliuko plotas: 1188100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:25 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:22 (sekundės).
+Paveiksliuko plotas: 1210000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:25 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:23 (sekundės).
+Paveiksliuko plotas: 1232100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:26 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:23 (sekundės).
+Paveiksliuko plotas: 1254400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:26 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:23 (sekundės).
+Paveiksliuko plotas: 1276900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:27 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:24 (sekundės).
+Paveiksliuko plotas: 1299600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:28 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:25 (sekundės).
+Paveiksliuko plotas: 1322500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:28 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:25 (sekundės).
+Paveiksliuko plotas: 1345600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:28 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:25 (sekundės).
+Paveiksliuko plotas: 1368900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:29 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:26 (sekundės).
+Paveiksliuko plotas: 1392400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:29 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:26 (sekundės).
+Paveiksliuko plotas: 1416100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:30 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:27 (sekundės).
+Paveiksliuko plotas: 1440000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:30 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:27 (sekundės).
+Paveiksliuko plotas: 1464100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:31 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:28 (sekundės).
+Paveiksliuko plotas: 1488400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:32 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:29 (sekundės).
+Paveiksliuko plotas: 1512900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:33 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:30 (sekundės).
+Paveiksliuko plotas: 1537600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:34 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:30 (sekundės).
+Paveiksliuko plotas: 1562500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:35 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:32 (sekundės).
+Paveiksliuko plotas: 1587600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:37 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:33 (sekundės).
+Paveiksliuko plotas: 1612900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:37 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:34 (sekundės).
+Paveiksliuko plotas: 1638400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:38 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:35 (sekundės).
+Paveiksliuko plotas: 1664100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:38 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:34 (sekundės).
+Paveiksliuko plotas: 1690000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:36 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:33 (sekundės).
+Paveiksliuko plotas: 1716100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:37 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:33 (sekundės).
+Paveiksliuko plotas: 1742400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:37 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:34 (sekundės).
+Paveiksliuko plotas: 1768900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:38 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:34 (sekundės).
+Paveiksliuko plotas: 1795600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:40 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:35 (sekundės).
+Paveiksliuko plotas: 1822500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:41 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:36 (sekundės).
+Paveiksliuko plotas: 1849600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:41 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:37 (sekundės).
+Paveiksliuko plotas: 1876900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:44 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:38 (sekundės).
+Paveiksliuko plotas: 1904400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:43 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:38 (sekundės).
+Paveiksliuko plotas: 1932100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:43 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:38 (sekundės).
+Paveiksliuko plotas: 1960000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:44 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:39 (sekundės).
+Paveiksliuko plotas: 1988100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:44 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:40 (sekundės).
+Paveiksliuko plotas: 2016400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:45 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:41 (sekundės).
+Paveiksliuko plotas: 2044900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:45 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:41 (sekundės).
+Paveiksliuko plotas: 2073600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:46 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:41 (sekundės).
+Paveiksliuko plotas: 2102500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:46 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:42 (sekundės).
+Paveiksliuko plotas: 2131600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:47 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:42 (sekundės).
+Paveiksliuko plotas: 2160900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:48 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:43 (sekundės).
+Paveiksliuko plotas: 2190400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:49 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:44 (sekundės).
+Paveiksliuko plotas: 2220100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:50 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:44 (sekundės).
+Paveiksliuko plotas: 2250000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:51 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:46 (sekundės).
+Paveiksliuko plotas: 2280100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:51 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:46 (sekundės).
+Paveiksliuko plotas: 2310400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:52 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:47 (sekundės).
+Paveiksliuko plotas: 2340900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:55 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:49 (sekundės).
+Paveiksliuko plotas: 2371600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:54 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:49 (sekundės).
+Paveiksliuko plotas: 2402500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:56 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:51 (sekundės).
+Paveiksliuko plotas: 2433600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:57 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:52 (sekundės).
+Paveiksliuko plotas: 2464900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:59 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:54 (sekundės).
+Paveiksliuko plotas: 2496400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:65 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:59 (sekundės).
+Paveiksliuko plotas: 2528100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:65 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:59 (sekundės).
+Paveiksliuko plotas: 2560000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:62 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:56 (sekundės).
+Paveiksliuko plotas: 2592100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:65 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:59 (sekundės).
+Paveiksliuko plotas: 2624400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:65 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:59 (sekundės).
+Paveiksliuko plotas: 2656900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:68 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:61 (sekundės).
+Paveiksliuko plotas: 2689600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:75 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:68 (sekundės).
+Paveiksliuko plotas: 2722500 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:79 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:73 (sekundės).
+Paveiksliuko plotas: 2755600 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:85 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:79 (sekundės).
+Paveiksliuko plotas: 2788900 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:97 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:91 (sekundės).
+Paveiksliuko plotas: 2822400 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:110 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:103 (sekundės).
+Paveiksliuko plotas: 2856100 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:138 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:131 (sekundės).
+Paveiksliuko plotas: 2890000 pikseliai.
+	Visas trečiojo scenarijaus vykdymo laikas:268 (sekundės).
+	Visas trečiojo scenarijaus vykdymo laikas:261 (sekundės).
